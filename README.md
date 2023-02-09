@@ -1,2 +1,2 @@
-# IMG_to_Minecraft_Murall
+# Scholar's Program
 Turns a jpg or img file and builds it using minecraft blocks automatically
