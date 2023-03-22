@@ -1,2 +1,2 @@
 # Scholar's Program
-Turns a jpg or img file and builds it using minecraft blocks automatically
+Takes in an "IMG" or "JPG" file and builds it automatically in Minecraft
